@@ -1,3 +1,7 @@
+# Do que se trata?
+
+Projeto utilizando react routes e consumindo um api para renderizar informações de produtos na pagina
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
